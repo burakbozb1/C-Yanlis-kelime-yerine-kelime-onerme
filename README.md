@@ -1,4 +1,4 @@
-# C-Yanlis-kelime-yerine-kelime-onerme
+# C - Yanlış girilen kelime yerine yeni kelime önerme c kodu
 C - Girilen cümledeki yanlış kelime yerine Levenshtein Edit Distance yöntemi ile kelime önerme, Hashing ile kelimelerin kaydedilmesi
 
 Problem.pdf dosyasındaki 2. sorunun cevabıdır.
